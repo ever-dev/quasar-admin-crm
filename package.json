@@ -5,10 +5,14 @@
   "productName": "CRM Admin",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
-  "author": "Mayank Patel",
+  "author": "Ever Dev",
   "private": true,
   "scripts": {
-    "test": "echo \"No test specified\" && exit 0"
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "build:pwa": "quasar build -m pwa",
+    "test": "echo \"No test specified\" && exit 0",
+    "format": "prettier --write './!(node_modules|dist)/**/*.{ts,tsx,js,jsx}'"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
@@ -20,7 +24,8 @@
     "vuedraggable": "^2.23.2"
   },
   "devDependencies": {
-    "@quasar/app": "^1.0.0"
+    "@quasar/app": "^1.0.0",
+    "prettier": "^1.19.1"
   },
   "engines": {
     "node": ">= 10.18.1",

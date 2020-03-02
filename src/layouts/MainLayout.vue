@@ -24,7 +24,7 @@
             <img src="https://cdn.quasar.dev/img/boy-avatar.png">
           </q-avatar>
 
-          <q-toolbar-title>Mayank Patel</q-toolbar-title>
+          <q-toolbar-title>Ever Dev</q-toolbar-title>
         </q-toolbar>
         <hr/>
         <q-scroll-area style="height:100%;">
