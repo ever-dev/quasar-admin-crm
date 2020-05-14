@@ -11,16 +11,6 @@ Few Features:
 - Simple CRM Dashboard
 - Export feature
 
-# Support
-
-If this helped you, you can contribute to this project by supporting me:
-
-Please check out my sponsor page.
-
-(GitHub currently **doubles your support**! So if you support me with $5/mo, I will get $10 instead! 😉)
-
-Thank you very much!!
-
 ## Resources used
 
 - [Quasar Framework](https://quasar.dev/)
