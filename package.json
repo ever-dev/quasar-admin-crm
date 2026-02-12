@@ -24,7 +24,7 @@
     "vuedraggable": "^2.23.2"
   },
   "devDependencies": {
-    "@quasar/app": "^1.0.0",
+    "@quasar/app": "^3.3.2",
     "prettier": "^1.19.1"
   },
   "engines": {
